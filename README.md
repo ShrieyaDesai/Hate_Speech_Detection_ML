@@ -10,8 +10,10 @@ This project focuses on building a machine learning model to recognize hate spee
 Used for extracting features in a format supported by machine learning algorithms from datasets consisting of formats such as text and image.
 ### CountVectorizer: 
 Converts text into vectors for text classification, creating matrices with 0's and 1's, enabling the model to understand the data.
-### NLTK (Natural Language Toolkit): A platform for building Python programs that work with human language data, useful for tasks like stemming and stopword removal.
-re (Regular Expression): Replaces irrelevant text with an empty string, cleaning the data.
+### NLTK (Natural Language Toolkit): 
+A platform for building Python programs that work with human language data, useful for tasks like stemming and stopword removal.
+### re (Regular Expression): 
+Replaces irrelevant text with an empty string, cleaning the data.
 ### NumPy:
 A library for creating arrays, which are grids of values of the same type, indexed by a tuple of nonnegative integers.
 # Key Concepts
